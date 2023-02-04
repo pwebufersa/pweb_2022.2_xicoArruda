@@ -6,7 +6,7 @@
 2. Já tem uma conta? Pode usar! Não tem uma conta? Clique em Sign up = Criar conta.
 3. Baixe o [GitHub Desktop](https://desktop.github.com). Ou use a linha de comando ou IDE preferida.
 4. Configure o GitHub Desktop com a conta criada no passo 1.
-5. Crie o repositório no formato **pweb_2021.2_primeironomeSegundonome** (ex.: pweb_2021.2_xicoArruda). Decida se ele ficará público ou privado.
+5. Crie o repositório no formato **pweb_2022.2_primeironomeSegundonome** (ex.: pweb_2022.2_xicoArruda). Decida se ele ficará público ou privado.
 6. Use um editor de texto e altere o README.md com informações relevantes. Pode usar o [Notepad++](https://notepad-plus-plus.org/downloads/), [VSCode](https://code.visualstudio.com/) ou outro editor de preferência.
 7. Faça *commit* das alterações no repositório local.
 8. Faça *push* do repositório local para o GitHub.
