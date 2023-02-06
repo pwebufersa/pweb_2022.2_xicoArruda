@@ -1,7 +1,7 @@
 # PWeb - Unidade 1
 ## Exercício 1 - 1,0 ponto se entregar até 04/03/2022
 ### [Vídeo explicando o exercício 1](https://drive.google.com/open?id=17qBOXNfSIfNXKkXuqiIC_XhcKE5XMkY_)
-### [Slides da aula 1](https://docs.google.com/presentation/d/175g0GGOatnrsCqbrvM0djvq2jfhRzZrN)
+### [Material da disciplina](https://drive.google.com/open?id=16I2WfDFZMKDNZGPu1Wq2rl1uceQUZjr6)
 1. Crie sua conta no GitHub.com (escolha um nome profissional - delicinhaCremosa123 é um mal exemplo). 
 2. Já tem uma conta? Pode usar! Não tem uma conta? Clique em Sign up = Criar conta.
 3. Baixe o [GitHub Desktop](https://desktop.github.com). Ou use a linha de comando ou IDE preferida.
@@ -20,4 +20,4 @@
 ##### [Git+GitHub by Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
 ##### [Git+GitHub by Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 ##### [Apostila Git+GitHub+Markdown by Gustavo Guanabara](../git_github_gguanabara/)
-##### [Material didático da disciplina](https://drive.google.com/open?id=16I2WfDFZMKDNZGPu1Wq2rl1uceQUZjr6)
+
