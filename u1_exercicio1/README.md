@@ -1,4 +1,4 @@
-# PWeb - Unidade 1
+# Programação WEB - Unidade 1 - Exercício 1
 ## Exercício 1 - 1,0 ponto se entregar até 04/03/2022
 ### [Vídeo explicando o exercício 1](https://drive.google.com/open?id=17qBOXNfSIfNXKkXuqiIC_XhcKE5XMkY_)
 ### [Material da disciplina](https://drive.google.com/open?id=16I2WfDFZMKDNZGPu1Wq2rl1uceQUZjr6)
