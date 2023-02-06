@@ -1,6 +1,6 @@
 # Programação WEB - 2022.2 - UFERSA Angicos
 ## Exercício 2 - 1,0 ponto se entregar até 12/02/2023
-### [Vídeo explicando o exercício 2](#)
+### [Vídeo explicando o exercício 2](https://drive.google.com/open?id=1HLZuWCmoeq_b6CRcjcqzdZrxc78DHI8Q)
 ### [Material da disciplina](https://drive.google.com/open?id=16I2WfDFZMKDNZGPu1Wq2rl1uceQUZjr6)
 
 
