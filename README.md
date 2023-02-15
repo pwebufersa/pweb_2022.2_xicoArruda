@@ -11,7 +11,7 @@ Veja [aqui](u1_exercicio1/).
 ## Exercício 2 - 2,0 pontos se entregar até 12/02/2023
 Veja [aqui](u1_exercicio2/).
 
-## Exercício 3 - 2,0 pontos se entregar até ??/??/2023
+## Exercício 3 - 2,0 pontos se entregar até 05/03/2023
 Veja [aqui](#).
 
 ---
