@@ -19,16 +19,16 @@
 6. Abra o projeto no VSCode.
 8. Crie ou edite os arquivos .java, .html e .css conforme visto nos vídeos. Os arquivos do u1_exercicio2 servirão de base para esse passo.
 9.  Tome como base os [arquivos de configuração](https://drive.google.com/open?id=1KHCRiDnNdD0np01QIibX6PQisLJKGed-) para configurar seu projeto.
-10. Se quiser alterar o banner.txt, pode ir [nesse site](https://patorjk.com/software/taag/#p=display&f=Big&t=PWEB%202022.2)
+10. Se quiser alterar o banner.txt, pode ir [nesse site](https://patorjk.com/software/taag/#p=display&f=Big&t=PWEB%202022.2).
 11. Após criar e configurar o projeto Spring no VSCode, não esqueça de fazer _commit_ e _push_ para o GitHub. Faça os passos e vá fazendo _commits_. Fazer apenas 1 _commit_ dá indícios ao professor que talvez você não esteja fazendo o trabalho _sozinho_...
 12. Modifique os arquivos HTML conforme os vídeos. Não esqueça de fazer _commit_ e _push_ no GitHub.
 13. Faça o R do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
 13. Faça o C do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
 13. Faça o U e o D do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
-14. Ao final do projeto, a estrutura de arquivos e diretórios deve ser [essa](https://drive.google.com/open?id=17dJrwgpZTMi8ZsBrLPAGze9HF-SsyqlO)
+14. Ao final do projeto, a estrutura de arquivos e diretórios deve ser [essa](https://drive.google.com/open?id=17dJrwgpZTMi8ZsBrLPAGze9HF-SsyqlO).
 
 
 ##### Há um material antigo da disciplina em:
-##### [Vídeo Antigo - exercício 3 (r do crud)](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p)
+##### [Vídeo Antigo - Exercício 3 (r do crud)](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p)
 
-##### [Vídeo Antigo - exercício 3 (c,u,d do crud)](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0)
+##### [Vídeo Antigo - Exercício 3 (c,u,d do crud)](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0)
