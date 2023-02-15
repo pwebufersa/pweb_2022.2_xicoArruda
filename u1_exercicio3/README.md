@@ -7,8 +7,7 @@
 ### [Vídeo - Parte 4 de 5 - C do CRUD](#)
 ### [Vídeo - Parte 5 de 5 - U e D do CRUD](#)
 
-### Os arquivos de apoio do projeto CadPessoas com Spring estão [nessa pasta](https://drive.google.com/open?id=17-KGWKYdf9qTHCMfD6ZVPP4DsKt-rjpZ)
-
+0. Arquivos de apoio do projeto CadPessoas com Spring estão [nessa pasta](https://drive.google.com/open?id=17-KGWKYdf9qTHCMfD6ZVPP4DsKt-rjpZ)
 1. Instale o [OpenJDK 8](https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot), versão jdk8u362-b09 - Temurin - Windows x64.
 2. Use o [VSCode](https://code.visualstudio.com/).
 4. Crie o projeto no [Spring Initializr](https://start.spring.io/) seguindo as [instruções](https://drive.google.com/open?id=17htKMi-29yO4uio_4ObtZQA5SBqs5jgm), substituindo o nome do professor pelo seu nome.
@@ -18,6 +17,7 @@
 9.  Tome como base os [arquivos de configuração](https://drive.google.com/open?id=1KHCRiDnNdD0np01QIibX6PQisLJKGed-) para configurar seu projeto.
 10. Se quiser altera o banner.txt, pode ir [nesse site](https://patorjk.com/software/taag/#p=display&f=Big&t=PWEB%202022.2)
 11. Faça o CRUD conforme os vídeos. Não esqueça de fazer _commit_ e _push_ no GitHub.
+12. Ao final do projeto, a estrutura de arquivos e diretórios do projeto deve ser [essa]()
 
 
 
@@ -26,7 +26,6 @@
 
 
 
-### [Vídeo Antigo - criação dos arquivos](https://drive.google.com/open?id=17dJrwgpZTMi8ZsBrLPAGze9HF-SsyqlO)
 
 ### [Vídeo Antigo - exercício 3 (r do crud)](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p)
 
