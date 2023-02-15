@@ -2,9 +2,13 @@
 ## Exercício 3 - 2,0 pontos se entregar até 05/03/2023
 
 ### [Vídeo - Parte 1 de 5 - Projeto Spring CadPessoas](https://drive.google.com/open?id=1JsB8iMsSz06AO6N1CkxrSqUoZzgRSD58)
+
 ### [Vídeo - Parte 2 de 5 - Ajustes HTML e CSS](https://drive.google.com/open?id=1KAldumLoLzS7jMwj8y4fNvh1-FxFat2u)
-### [Vídeo - Parte 3 de 5 - R do CRUD](#)
-### [Vídeo - Parte 4 de 5 - C do CRUD](#)
+
+### [Vídeo - Parte 3 de 5 - MVC e Index](https://drive.google.com/open?id=1KHcTyx_Y7z6aqB3445f5E9VVjpl9a_an)
+
+### [Vídeo - Parte 4 de 5 - R e C do CRUD](#)
+
 ### [Vídeo - Parte 5 de 5 - U e D do CRUD](#)
 
 0. Arquivos de apoio do projeto CadPessoas com Spring estão [nessa pasta](https://drive.google.com/open?id=17-KGWKYdf9qTHCMfD6ZVPP4DsKt-rjpZ)
@@ -27,6 +31,6 @@
 
 
 
-### [Vídeo Antigo - exercício 3 (r do crud)](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p)
+##### [Vídeo Antigo - exercício 3 (r do crud)](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p)
 
-### [Vídeo Antigo - exercício 3 (c,u,d do crud)](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0)
+##### [Vídeo Antigo - exercício 3 (c,u,d do crud)](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0)
