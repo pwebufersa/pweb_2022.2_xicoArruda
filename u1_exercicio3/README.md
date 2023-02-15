@@ -20,17 +20,15 @@
 8. Crie os arquivos .java, .html e .css conforme visto na Parte 1 e 2. Os arquivos do Exercício 2 servirão de base para esse passo.
 9.  Tome como base os [arquivos de configuração](https://drive.google.com/open?id=1KHCRiDnNdD0np01QIibX6PQisLJKGed-) para configurar seu projeto.
 10. Se quiser altera o banner.txt, pode ir [nesse site](https://patorjk.com/software/taag/#p=display&f=Big&t=PWEB%202022.2)
-11. Faça o CRUD conforme os vídeos. Não esqueça de fazer _commit_ e _push_ no GitHub.
-12. Ao final do projeto, a estrutura de arquivos e diretórios do projeto deve ser [essa](https://drive.google.com/open?id=17dJrwgpZTMi8ZsBrLPAGze9HF-SsyqlO)
+11. Crie o projeto Spring. Não esqueça de fazer _commit_ e _push_ no GitHub.
+12. Modifique os arquivos HTML. Não esqueça de fazer _commit_ e _push_ no GitHub.
+13. Faça o R do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
+13. Faça o C do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
+13. Faça o U e o D do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
+14. Ao final do projeto, a estrutura de arquivos e diretórios do projeto deve ser [essa](https://drive.google.com/open?id=17dJrwgpZTMi8ZsBrLPAGze9HF-SsyqlO)
 
 
-
-
-
-
-
-
-
+##### Há um material antigo da disciplina em:
 ##### [Vídeo Antigo - exercício 3 (r do crud)](https://drive.google.com/file/d/1s0j2dqfTjcpiWqMlyD0KhSJJy4AV0g9p)
 
 ##### [Vídeo Antigo - exercício 3 (c,u,d do crud)](https://drive.google.com/file/d/1MRpWvcjpqkehnb9pfSC1Jj38eeOylg_0)
