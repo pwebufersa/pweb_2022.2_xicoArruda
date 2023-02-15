@@ -15,17 +15,17 @@
 1. Instale o [OpenJDK 8](https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot), versão jdk8u362-b09 - Temurin - Windows x64.
 2. Use o [VSCode](https://code.visualstudio.com/) para fazer o projeto, é o mais usado.
 4. Crie o projeto no [Spring Initializr](https://start.spring.io/) seguindo as [instruções](https://drive.google.com/open?id=17htKMi-29yO4uio_4ObtZQA5SBqs5jgm), substituindo o nome do professor pelo seu nome.
-5. Descompacte o projeto criado no Spring Initializr na pasta _u1_exercicio3_ , dentro da pasta onde fica o seu repositório da disciplina.
+5. Descompacte o projeto criado no Spring Initializr na pasta _u1_exercicio3_, dentro da pasta onde fica o seu repositório da disciplina.
 6. Abra o projeto no VSCode.
-8. Crie os arquivos .java, .html e .css conforme visto na Parte 1 e 2. Os arquivos do Exercício 2 servirão de base para esse passo.
+8. Crie ou edite os arquivos .java, .html e .css conforme visto nos vídeos. Os arquivos do u1_exercicio2 servirão de base para esse passo.
 9.  Tome como base os [arquivos de configuração](https://drive.google.com/open?id=1KHCRiDnNdD0np01QIibX6PQisLJKGed-) para configurar seu projeto.
-10. Se quiser altera o banner.txt, pode ir [nesse site](https://patorjk.com/software/taag/#p=display&f=Big&t=PWEB%202022.2)
-11. Crie o projeto Spring. Não esqueça de fazer _commit_ e _push_ no GitHub.
-12. Modifique os arquivos HTML. Não esqueça de fazer _commit_ e _push_ no GitHub.
+10. Se quiser alterar o banner.txt, pode ir [nesse site](https://patorjk.com/software/taag/#p=display&f=Big&t=PWEB%202022.2)
+11. Após criar e configurar o projeto Spring no VSCode, não esqueça de fazer _commit_ e _push_ para o GitHub. Faça os passos e vá fazendo o commit. Apenas 1 commit em 2 semanas dá indícios ruins ao professor que você tá fazendo o trabalho sozinho.
+12. Modifique os arquivos HTML conforme os vídeos. Não esqueça de fazer _commit_ e _push_ no GitHub.
 13. Faça o R do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
 13. Faça o C do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
 13. Faça o U e o D do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
-14. Ao final do projeto, a estrutura de arquivos e diretórios do projeto deve ser [essa](https://drive.google.com/open?id=17dJrwgpZTMi8ZsBrLPAGze9HF-SsyqlO)
+14. Ao final do projeto, a estrutura de arquivos e diretórios deve ser [essa](https://drive.google.com/open?id=17dJrwgpZTMi8ZsBrLPAGze9HF-SsyqlO)
 
 
 ##### Há um material antigo da disciplina em:
