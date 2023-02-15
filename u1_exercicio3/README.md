@@ -20,7 +20,7 @@
 8. Crie ou edite os arquivos .java, .html e .css conforme visto nos vídeos. Os arquivos do u1_exercicio2 servirão de base para esse passo.
 9.  Tome como base os [arquivos de configuração](https://drive.google.com/open?id=1KHCRiDnNdD0np01QIibX6PQisLJKGed-) para configurar seu projeto.
 10. Se quiser alterar o banner.txt, pode ir [nesse site](https://patorjk.com/software/taag/#p=display&f=Big&t=PWEB%202022.2)
-11. Após criar e configurar o projeto Spring no VSCode, não esqueça de fazer _commit_ e _push_ para o GitHub. Faça os passos e vá fazendo o commit. Fazer apenas 1 commit dá indícios ao professor que talvez você não tá fazendo o trabalho _sozinho_.
+11. Após criar e configurar o projeto Spring no VSCode, não esqueça de fazer _commit_ e _push_ para o GitHub. Faça os passos e vá fazendo _commits_. Fazer apenas 1 _commit_ dá indícios ao professor que talvez você não esteja fazendo o trabalho _sozinho_...
 12. Modifique os arquivos HTML conforme os vídeos. Não esqueça de fazer _commit_ e _push_ no GitHub.
 13. Faça o R do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
 13. Faça o C do CRUD. Não esqueça de fazer _commit_ e _push_ no GitHub.
