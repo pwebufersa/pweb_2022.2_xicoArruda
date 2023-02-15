@@ -7,7 +7,7 @@
 
 ### [Vídeo - Parte 3 de 5 - MVC e Index](https://drive.google.com/open?id=1KHcTyx_Y7z6aqB3445f5E9VVjpl9a_an)
 
-### [Vídeo - Parte 4 de 5 - R e C do CRUD](#)
+### [Vídeo - Parte 4 de 5 - R e C do CRUD](https://drive.google.com/open?id=1KRmQyi2G9mO3uT0ZH-FAy9HJplP9tv1L)
 
 ### [Vídeo - Parte 5 de 5 - U e D do CRUD](#)
 
