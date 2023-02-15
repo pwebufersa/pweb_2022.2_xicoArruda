@@ -9,7 +9,7 @@
 
 ### [Vídeo - Parte 4 de 5 - R e C do CRUD](https://drive.google.com/open?id=1KRmQyi2G9mO3uT0ZH-FAy9HJplP9tv1L)
 
-### [Vídeo - Parte 5 de 5 - U e D do CRUD](#)
+### [Vídeo - Parte 5 de 5 - U e D do CRUD](https://drive.google.com/open?id=1KY32PbN7857Ao-XALZUBcUiD8Xvouexc)
 
 0. Arquivos de apoio do projeto CadPessoas com Spring estão [nessa pasta](https://drive.google.com/open?id=17-KGWKYdf9qTHCMfD6ZVPP4DsKt-rjpZ)
 1. Instale o [OpenJDK 8](https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot), versão jdk8u362-b09 - Temurin - Windows x64.
