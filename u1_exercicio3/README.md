@@ -17,7 +17,7 @@
 9.  Tome como base os [arquivos de configuração](https://drive.google.com/open?id=1KHCRiDnNdD0np01QIibX6PQisLJKGed-) para configurar seu projeto.
 10. Se quiser altera o banner.txt, pode ir [nesse site](https://patorjk.com/software/taag/#p=display&f=Big&t=PWEB%202022.2)
 11. Faça o CRUD conforme os vídeos. Não esqueça de fazer _commit_ e _push_ no GitHub.
-12. Ao final do projeto, a estrutura de arquivos e diretórios do projeto deve ser [essa]()
+12. Ao final do projeto, a estrutura de arquivos e diretórios do projeto deve ser [essa](https://drive.google.com/open?id=17dJrwgpZTMi8ZsBrLPAGze9HF-SsyqlO)
 
 
 
