@@ -1,5 +1,5 @@
  # Programação WEB - 2022.2 - UFERSA Angicos
-Repositório dadDisciplina Programação WEB da UFERSA Angicos no semestre 2022.2.
+Repositório da Disciplina Programação WEB da UFERSA Angicos no semestre 2022.2.
 
 ---
 
