@@ -12,7 +12,7 @@
 ### [Vídeo - Parte 5 de 5 - U e D do CRUD](https://drive.google.com/open?id=1KY32PbN7857Ao-XALZUBcUiD8Xvouexc)
 
 0. Arquivos de apoio do projeto CadPessoas com Spring estão [aqui](https://drive.google.com/open?id=17-KGWKYdf9qTHCMfD6ZVPP4DsKt-rjpZ).
-1. Instale o [OpenJDK 8](https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot), versão jdk8u362-b09 - Temurin - Windows x64.
+1. Instale o [OpenJDK 8](https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot), versão jdk8u362-b09 - Temurin - Windows x64, conforme [instruções](https://drive.google.com/open?id=1BO1ui3NU9LKAjqua-thP78q10Xrf3op1)
 2. Use o [VSCode](https://code.visualstudio.com/) para fazer o projeto, é o mais usado.
 4. Crie o projeto no [Spring Initializr](https://start.spring.io/) seguindo as [instruções](https://drive.google.com/open?id=17htKMi-29yO4uio_4ObtZQA5SBqs5jgm), substituindo o nome do professor pelo seu nome.
 5. Descompacte o projeto criado no Spring Initializr na pasta _u1_exercicio3_, dentro da pasta onde fica o seu repositório da disciplina.
