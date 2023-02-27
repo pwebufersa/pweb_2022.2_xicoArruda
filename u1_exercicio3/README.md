@@ -1,7 +1,7 @@
 # Programação WEB - 2022.2 - UFERSA Angicos
 ## Exercício 3 - 2,0 pontos se entregar até 05/03/2023
 
-### [Vídeo - Parte 1 de 5 - Projeto Spring CadPessoas](https://drive.google.com/open?id=1JsB8iMsSz06AO6N1CkxrSqUoZzgRSD58)
+### [Vídeo - Parte 1 de 5 - Projeto Spring CadPessoas](https://drive.google.com/open?id=1GlAtyVXCuSgecBHpqQ3AHgXAFJgkMuUh)
 
 ### [Vídeo - Parte 2 de 5 - Ajustes HTML e CSS](https://drive.google.com/open?id=1KAldumLoLzS7jMwj8y4fNvh1-FxFat2u)
 
