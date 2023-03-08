@@ -18,11 +18,9 @@ Veja [aqui](u1_exercicio3/).
 
 # Unidade 2
 ## Projeto - Parte 1 - 5,0 pontos se entregar até ??/??/2023
-Veja [aqui](#).
+Veja [aqui](https://drive.google.com/open?id=1UUwexsOkzN7AoTFTOe0B9cQ_H4Km_ZJu).
 
 Explicação do projeto [aqui](#).
-
-Sugestões de interface [aqui](#).
 
 ---
 
