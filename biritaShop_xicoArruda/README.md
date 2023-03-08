@@ -16,6 +16,9 @@ Utilize o cadastro de pessoas feito na Unidade 1 como base, já que os cadastros
 Tem também a explicação do projeto [em vídeo](#).
 
 ## Repositórios de outros alunos
+
+Outros alunos que já passaram pela disciplina também fizeram o projeto e o cadastro de pessoas. Tenha em mente que todo semestre o professor muda várias coisas da disciplina, então, apenas copiar e colar não garante que vai funcionar. São 3 exemplos de projetos:
+
 0. Repositório 1 - [Lucas Evangelista](https://github.com/mulucas/pweb_2020.2_lucasQueiroz).
 1. Repositório 2 - [Malyson Souza](https://github.com/malysonb/pweb_2020.2_MalysonSouza).
 2. Repositório 3 - [Heron Carlos](https://github.com/HeronCSS/pweb_2021.2_heronCarlos).
