@@ -17,13 +17,13 @@ Veja [aqui](u1_exercicio3/).
 ---
 
 # Unidade 2
-## Projeto - Parte 1 - 5,0 pontos se entregar até ??/??/2023
-Veja [aqui](https://drive.google.com/open?id=1UUwexsOkzN7AoTFTOe0B9cQ_H4Km_ZJu).
+## Projeto - Parte 1 - 5,0 pontos se entregar até 16/04/2023
+Faça as UserStories 1, 2, 3 e 4. Veja [aqui](https://drive.google.com/open?id=1UUwexsOkzN7AoTFTOe0B9cQ_H4Km_ZJu).
 
 Explicação do projeto [aqui](#).
 
 ---
 
 # Unidade 3
-## Projeto - Parte 2 - 5,0 pontos se entregar até ??/??/2023
-Veja [aqui](#).
+## Projeto - Parte 2 - 5,0 pontos se entregar até 20/05/2023
+Faça 5 UserStories (escolha da US5 até a US18). Veja [aqui](https://drive.google.com/open?id=1UUwexsOkzN7AoTFTOe0B9cQ_H4Km_ZJu).
