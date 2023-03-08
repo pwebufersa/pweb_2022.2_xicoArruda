@@ -17,11 +17,11 @@ Tem também a explicação do projeto [em vídeo](#).
 
 ## Repositórios de outros alunos
 
-Outros alunos que já passaram pela disciplina também fizeram o cadastro de pessoas e o projeto. Tenha em mente que todo semestre o professor muda várias coisas da disciplina. Apenas copiar e colar não garante que vai funcionar, então, use com cuidado. São 3 exemplos de projetos:
+Outros alunos que já passaram pela disciplina também fizeram o cadastro de pessoas e o projeto. Tenha em mente que todo semestre o professor muda várias coisas da disciplina. Apenas copiar e colar não garante que vai funcionar, então, use com cuidado. São 3 exemplos:
 
-0. Repositório 1 - [Lucas Evangelista](https://github.com/mulucas/pweb_2020.2_lucasQueiroz).
-1. Repositório 2 - [Malyson Souza](https://github.com/malysonb/pweb_2020.2_MalysonSouza).
-2. Repositório 3 - [Heron Carlos](https://github.com/HeronCSS/pweb_2021.2_heronCarlos).
+1. Repositório 1 - [Lucas Evangelista](https://github.com/mulucas/pweb_2020.2_lucasQueiroz).
+2. Repositório 2 - [Malyson Souza](https://github.com/malysonb/pweb_2020.2_MalysonSouza).
+3. Repositório 3 - [Heron Carlos](https://github.com/HeronCSS/pweb_2021.2_heronCarlos).
 
 ## Projetos prontos para upload de imagens
 Upload de imagens pode ser bastante complicado, por isso que vale muitos pontos. Para auxiliar, há 4 projetos prontos que implementam essa funcionalidade. Veja [aqui](SpringImageUpload/) os exemplos de outras pessoas.
