@@ -1,2 +1,0 @@
-# SpringImageUpload
- Spring Image Upload
