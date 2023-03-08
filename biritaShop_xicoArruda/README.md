@@ -11,7 +11,7 @@ A nota da Unidade 2 e Unidade 3 será atribuída a partir da implementação [de
 
 - Na segunda etapa, você implementa as consultas e relatórios. Ao final dessa etapa você terá a nota da Unidade 3. Entregue até 20/05/2023.
 
-Utilize o cadastro de pessoas feito na Unidade 1 como base, já que os cadastros são parecidos. Veja o material abaixo se tiver alguma dúvida de como correlacionar classes e cadastrá-las no banco de dados, ou como exibir algo diferente no .html que não foi visto na Unidade 1.
+Utilize o cadastro de pessoas feito na Unidade 1 como base, já que os cadastros de Pessoa, Cliente, Produto, Dependentes e Pedidos/Vendas são parecidos. Veja o material abaixo se tiver alguma dúvida de como correlacionar classes e cadastrá-las no banco de dados, ou como exibir algo diferente no .html que não foi visto na Unidade 1.
 
 Tem também a explicação do projeto [em vídeo](#).
 
