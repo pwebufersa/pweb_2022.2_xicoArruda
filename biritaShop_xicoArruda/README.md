@@ -24,4 +24,4 @@ Outros alunos que já passaram pela disciplina também fizeram o projeto e o cad
 2. Repositório 3 - [Heron Carlos](https://github.com/HeronCSS/pweb_2021.2_heronCarlos).
 
 ## Projetos prontos para upload de imagens
-0. Veja [aqui](SpringImageUpload/).
+Upload de imagens pode ser bastante complicado, por isso que vale muitos pontos. Para auxiliar, há 4 projetos prontos que implementam essa funcionalidade. Veja [aqui](SpringImageUpload/) os exemplos de outras pessoas.
