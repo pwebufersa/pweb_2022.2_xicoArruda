@@ -3,7 +3,7 @@
 ---
 
 ## Descrição do projeto:
-A nota da Unidade 2 e Unidade 3 será atribuída a partir da implementação do projeto conforme descrito [aqui](https://drive.google.com/open?id=1UUwexsOkzN7AoTFTOe0B9cQ_H4Km_ZJu).
+A nota da Unidade 2 e Unidade 3 será atribuída a partir da implementação [desse projeto](https://drive.google.com/open?id=1UUwexsOkzN7AoTFTOe0B9cQ_H4Km_ZJu).
 
 #### O projeto é feito em 2 etapas:
 
