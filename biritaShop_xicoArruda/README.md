@@ -1,4 +1,4 @@
-# Programação WEB - 2022.2 - UFERSA Angicos - Unidade 2 e Unidade 3
+# PWeb - 2022.2 - UFERSA Angicos - Unidade 2 e Unidade 3
 
 ---
 
