@@ -26,4 +26,4 @@ Explicação do projeto [aqui](#).
 
 # Unidade 3
 ## Projeto - Parte 2 - 5,0 pontos se entregar até 20/05/2023
-Faça 5 UserStories (escolha da US5 até a US18). Veja [aqui](https://drive.google.com/open?id=1UUwexsOkzN7AoTFTOe0B9cQ_H4Km_ZJu).
+Escolha e Faça 5 UserStories (escolha da US5 até a US18). Veja [aqui](https://drive.google.com/open?id=1UUwexsOkzN7AoTFTOe0B9cQ_H4Km_ZJu).
